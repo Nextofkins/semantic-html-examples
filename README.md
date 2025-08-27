@@ -1,6 +1,6 @@
 # Semantic HTML Examples
 
-This repository demonstrates the difference between **non-semantic** and **semantic** HTML. It supports the blog post: [Semantic HTML for SEO and Accessibility](link-to-your-blog).
+This repository demonstrates the difference between **non-semantic** and **semantic** HTML. It supports the blog post: [Semantic HTML for SEO and Accessibility](https://dev.to/alfred27/semantic-html-for-seo-and-accessibility-a-practical-guide-for-developers-5gkg).
 
 ## Files
 - `before.html` → Example using only <div> and <span>
